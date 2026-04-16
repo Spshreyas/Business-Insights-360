@@ -34,7 +34,7 @@ Rather than just building reports, the focus is on answering a deeper question:
 ## 📂 Reports Included
 
 ### 👥 Customer Performance Analysis  
-🔗 [View Report](./Customer%20Performance%20Report.pdf)
+🔗 [View Report](Customer Performance Report.pdf)
 
 - Identified top-performing and underperforming customers  
 - Highlighted dependency on key accounts (e.g., Amazon, Atliq e-Store)  
